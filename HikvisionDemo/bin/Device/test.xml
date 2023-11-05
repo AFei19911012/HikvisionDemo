@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Device>
+  <Device1 DeviceName="测试01" DeviceType="球机" Ip="192.168.1.64" Port="8000" UserName="admin" PassWord="Big Wang" />
+  <Device2 DeviceName="测试02" DeviceType="球机" Ip="192.168.1.64" Port="8000" UserName="admin" PassWord="Big Wang" />
+  <Device3 DeviceName="测试03" DeviceType="球机" Ip="192.168.1.64" Port="8000" UserName="admin" PassWord="Big Wang" />
+  <Device4 DeviceName="测试04" DeviceType="球机" Ip="192.168.1.64" Port="8000" UserName="admin" PassWord="Big Wang" />
+  <Device5 DeviceName="测试05" DeviceType="球机" Ip="192.168.1.64" Port="8000" UserName="admin" PassWord="Big Wang" />
+  <Device6 DeviceName="测试06" DeviceType="球机" Ip="192.168.1.64" Port="8000" UserName="admin" PassWord="Big Wang" />
+</Device>

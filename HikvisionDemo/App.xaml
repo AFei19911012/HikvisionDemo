@@ -1,0 +1,23 @@
+﻿<Application x:Class="HikvisionDemo.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:HikvisionDemo"
+             xmlns:ct="clr-namespace:HikvisionDemo.Converter"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ResourceDictionary>
+            <!-- 主题样式 -->
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="pack://application:,,,/HandyControl;component/Themes/SkinDefault.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/HandyControl;component/Themes/Theme.xaml"/>
+                <ResourceDictionary Source="/Theme/Brush.xaml"/>
+                <ResourceDictionary Source="/Theme/Geometry.xaml"/>
+                <ResourceDictionary Source="/Theme/Style.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+
+            <FontFamily x:Key="IconFont">/Theme/#iconfont</FontFamily>
+
+            <ct:StringToGeometryConverter x:Key="GeometryConverter"/>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>

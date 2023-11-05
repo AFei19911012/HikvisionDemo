@@ -1,0 +1,70 @@
+[2023-11-05 17:14:47.722][INF] The COM:HCCoreBase ver is 6.1.4.15, 2020_03_05. Async:1.
+[2023-11-05 17:14:47.722][INF] The COM:Core ver is 6.1.9.4, 2022_04_12. Async:1.
+[2023-11-05 17:14:47.722][INF] This HCNetSDK ver is 6.1.9.4 Ver 2022_04_12.
+[2023-11-05 17:14:47.722][INF] Login dev 192.168.1.64:8000.
+[2023-11-05 17:14:47.722][INF] dwTotalNum[2048]
+[2023-11-05 17:14:47.733][INF] Private connect 192.168.1.64:8000 sock=7736 this=0x1f7de374 cmd=0x10000 port=2795
+[2023-11-05 17:14:47.733][INF] LogonDev1 in[192.168.1.64:8000]
+[2023-11-05 17:14:48.548][DBG] CComBase::Load, Load szDllPath[D:/MyPrograms/VS/HikvisionDemo/HikvisionDemo/bin/HCNetSDKCom/HCPreview.dll] SUCC
+[2023-11-05 17:14:48.548][INF] AbilityAnalyze---Init-- start
+[2023-11-05 17:14:48.548][ERR] AbilityAnalyze---open zip package error, package path D:/MyPrograms/VS/HikvisionDemo/HikvisionDemo/bin/LocalXml.zip
+[2023-11-05 17:14:48.548][INF] The COM:Preview ver is 6.1.9.4, 2022_04_12.
+[2023-11-05 17:14:48.548][INF] CCoreGlobalCtrl::LoadDSo, enumDllType[0], cTempPath[D:/MyPrograms/VS/HikvisionDemo/HikvisionDemo/bin/]
+[2023-11-05 17:14:48.550][DBG] CCoreGlobalCtrl::LoadDSo, HPR_LoadDSo, hHandleRet[202506240], enumDllType[0], Path[PlayCtrl.dll], syserror[0]
+[2023-11-05 17:14:48.767][DBG] ID-IP-CHAN[0-192.168.1.64-1] [CPreviewPlayer::CreatePlayer] create player success, version is[v7.4.0.2b]
+[2023-11-05 17:14:48.777][INF] Private connect 192.168.1.64:8000 sock=5532 this=0x1f7de374 cmd=0x30000 port=2796
+[2023-11-05 17:14:48.793][INF] ID-IP-CHAN[0-192.168.1.64-1] [CGetTCPStream::Start] Stream Head Data Callback Start
+[2023-11-05 17:14:48.793][INF] ID-IP-CHAN[0-192.168.1.64-1] [CGetTCPStream::Start] Stream Head Data Callback End
+[2023-11-05 17:14:48.793][ERR] GetOverlayFontPath Failed
+[2023-11-05 17:14:48.796][INF] ID-IP-CHAN[0-192.168.1.64-1] [CPreviewPlayer::OpenPlayer] open player[56f23c4] success
+[2023-11-05 17:14:48.796][DBG] ID-IP-CHAN[0-192.168.1.64-1] RTP Format
+[2023-11-05 17:14:48.796][INF] Login dev 192.168.1.64:8000.
+[2023-11-05 17:14:48.797][INF] Private connect 192.168.1.64:8000 sock=5996 this=0x1f7deae0 cmd=0x10000 port=2797
+[2023-11-05 17:14:48.797][INF] LogonDev1 in[192.168.1.64:8000]
+[2023-11-05 17:14:49.140][DBG] ID-IP-CHAN[1-192.168.1.64-1] [CPreviewPlayer::CreatePlayer] create player success, version is[v7.4.0.2b]
+[2023-11-05 17:14:49.140][INF] Private connect 192.168.1.64:8000 sock=5996 this=0x1f7deae0 cmd=0x30000 port=2798
+[2023-11-05 17:14:49.151][INF] ID-IP-CHAN[1-192.168.1.64-1] [CGetTCPStream::Start] Stream Head Data Callback Start
+[2023-11-05 17:14:49.151][INF] ID-IP-CHAN[1-192.168.1.64-1] [CGetTCPStream::Start] Stream Head Data Callback End
+[2023-11-05 17:14:49.151][ERR] GetOverlayFontPath Failed
+[2023-11-05 17:14:49.153][INF] ID-IP-CHAN[1-192.168.1.64-1] [CPreviewPlayer::OpenPlayer] open player[56f2418] success
+[2023-11-05 17:14:49.153][DBG] ID-IP-CHAN[1-192.168.1.64-1] RTP Format
+[2023-11-05 17:14:49.153][INF] Login dev 192.168.1.64:8000.
+[2023-11-05 17:14:49.153][INF] Private connect 192.168.1.64:8000 sock=8812 this=0x1f7df24c cmd=0x10000 port=2799
+[2023-11-05 17:14:49.153][INF] LogonDev1 in[192.168.1.64:8000]
+[2023-11-05 17:14:49.219][DBG] ID-IP-CHAN[2-192.168.1.64-1] [CPreviewPlayer::CreatePlayer] create player success, version is[v7.4.0.2b]
+[2023-11-05 17:14:49.219][INF] Private connect 192.168.1.64:8000 sock=8812 this=0x1f7df24c cmd=0x30000 port=2800
+[2023-11-05 17:14:49.230][INF] ID-IP-CHAN[2-192.168.1.64-1] [CGetTCPStream::Start] Stream Head Data Callback Start
+[2023-11-05 17:14:49.230][INF] ID-IP-CHAN[2-192.168.1.64-1] [CGetTCPStream::Start] Stream Head Data Callback End
+[2023-11-05 17:14:49.230][ERR] GetOverlayFontPath Failed
+[2023-11-05 17:14:49.231][INF] ID-IP-CHAN[2-192.168.1.64-1] [CPreviewPlayer::OpenPlayer] open player[56f246c] success
+[2023-11-05 17:14:49.231][DBG] ID-IP-CHAN[2-192.168.1.64-1] RTP Format
+[2023-11-05 17:14:49.232][INF] Login dev 192.168.1.64:8000.
+[2023-11-05 17:14:49.232][INF] Private connect 192.168.1.64:8000 sock=7272 this=0x1f7df9b8 cmd=0x10000 port=2801
+[2023-11-05 17:14:49.232][INF] LogonDev1 in[192.168.1.64:8000]
+[2023-11-05 17:14:49.298][DBG] ID-IP-CHAN[3-192.168.1.64-1] [CPreviewPlayer::CreatePlayer] create player success, version is[v7.4.0.2b]
+[2023-11-05 17:14:49.310][INF] Private connect 192.168.1.64:8000 sock=7272 this=0x1f7df9b8 cmd=0x30000 port=2802
+[2023-11-05 17:14:49.322][INF] ID-IP-CHAN[3-192.168.1.64-1] [CGetTCPStream::Start] Stream Head Data Callback Start
+[2023-11-05 17:14:49.322][INF] ID-IP-CHAN[3-192.168.1.64-1] [CGetTCPStream::Start] Stream Head Data Callback End
+[2023-11-05 17:14:49.322][ERR] GetOverlayFontPath Failed
+[2023-11-05 17:14:49.323][INF] ID-IP-CHAN[3-192.168.1.64-1] [CPreviewPlayer::OpenPlayer] open player[56f24c0] success
+[2023-11-05 17:14:49.323][DBG] ID-IP-CHAN[3-192.168.1.64-1] RTP Format
+[2023-11-05 17:14:49.323][INF] Login dev 192.168.1.64:8000.
+[2023-11-05 17:14:49.337][INF] Private connect 192.168.1.64:8000 sock=6584 this=0x1f7e0124 cmd=0x10000 port=2803
+[2023-11-05 17:14:49.337][INF] LogonDev1 in[192.168.1.64:8000]
+[2023-11-05 17:14:49.427][DBG] ID-IP-CHAN[4-192.168.1.64-1] [CPreviewPlayer::CreatePlayer] create player success, version is[v7.4.0.2b]
+[2023-11-05 17:14:49.433][INF] Private connect 192.168.1.64:8000 sock=6584 this=0x1f7e0124 cmd=0x30000 port=2804
+[2023-11-05 17:14:49.440][INF] ID-IP-CHAN[4-192.168.1.64-1] [CGetTCPStream::Start] Stream Head Data Callback Start
+[2023-11-05 17:14:49.440][INF] ID-IP-CHAN[4-192.168.1.64-1] [CGetTCPStream::Start] Stream Head Data Callback End
+[2023-11-05 17:14:49.440][ERR] GetOverlayFontPath Failed
+[2023-11-05 17:14:49.442][INF] ID-IP-CHAN[4-192.168.1.64-1] [CPreviewPlayer::OpenPlayer] open player[56f2514] success
+[2023-11-05 17:14:49.442][DBG] ID-IP-CHAN[4-192.168.1.64-1] RTP Format
+[2023-11-05 17:14:49.442][INF] Login dev 192.168.1.64:8000.
+[2023-11-05 17:14:49.458][INF] Private connect 192.168.1.64:8000 sock=4892 this=0x1f7e0890 cmd=0x10000 port=2805
+[2023-11-05 17:14:49.458][INF] LogonDev1 in[192.168.1.64:8000]
+[2023-11-05 17:14:49.549][DBG] ID-IP-CHAN[5-192.168.1.64-1] [CPreviewPlayer::CreatePlayer] create player success, version is[v7.4.0.2b]
+[2023-11-05 17:14:49.564][INF] Private connect 192.168.1.64:8000 sock=4892 this=0x1f7e0890 cmd=0x30000 port=2806
+[2023-11-05 17:14:49.585][INF] ID-IP-CHAN[5-192.168.1.64-1] [CGetTCPStream::Start] Stream Head Data Callback Start
+[2023-11-05 17:14:49.585][INF] ID-IP-CHAN[5-192.168.1.64-1] [CGetTCPStream::Start] Stream Head Data Callback End
+[2023-11-05 17:14:49.585][ERR] GetOverlayFontPath Failed
+[2023-11-05 17:14:49.586][INF] ID-IP-CHAN[5-192.168.1.64-1] [CPreviewPlayer::OpenPlayer] open player[56f2568] success
+[2023-11-05 17:14:49.586][DBG] ID-IP-CHAN[5-192.168.1.64-1] RTP Format
